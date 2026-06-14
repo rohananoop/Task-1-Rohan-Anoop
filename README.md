@@ -30,9 +30,9 @@ It was **Project 1**, which focus concepts like classes, loops, conditionals, in
 
 ---
 
-
 ## How To Run
-### Compile
+
+1. Compile
 `javac DecodeLabs_Java_P1.java`
-### Run 
+2.  Run 
 `java DecodeLabs_Java_P1`
