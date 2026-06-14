@@ -38,7 +38,7 @@ It was **Project 1**, which focus concepts like class, loops, conditionals, inpu
 
 ---
 
-## How to Run
+## How To Run
 ### Compile
 javac DecodeLabs_Java_P1.java
 ### Run 
