@@ -6,7 +6,7 @@ The program generates a random number between 1 to 100, and the user will have 5
 
 ## Internship Details
 This project was developed as part of a **Virtual Internship Program in Java Programming** at **DecodeLabs**.  
-It was **Project 1**, which focus concepts like class, loops, conditionals, input handling.
+It was **Project 1**, which focus concepts like classes, loops, conditionals, input handling.
 
 ---
 
