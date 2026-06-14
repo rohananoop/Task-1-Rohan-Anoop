@@ -30,11 +30,13 @@ It was **Project 1**, which focus concepts like class, loops, conditionals, inpu
 
 ---
 
-## Technologies Used
-- Java
-- Scanner class
-- Random class
-- Exception Handling (InputMismatchException)
+## Concepts Used
+- Core Java
+- Input and Output (Scanner class)
+- Conditional Statements 
+- Loops 
+- Arrays
+- Basic Problem Solving
 
 ---
 
